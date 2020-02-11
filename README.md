@@ -21,3 +21,29 @@
     <img src="https://discordapp.com/api/guilds/504326398287020035/widget.png?style=shield">
   </a>
 </p>
+
+# Getting started
+1. Install the package through `npm i corona-tracker`
+2. You're done ! Consult the docs and get going !
+
+# Docs
+ 
+ Consult docs [here](https://jakeisbored.github.io)
+ And navigate to this project's section
+
+# Features
+
+- No API key required!
+- Fast , reliable and flexible.
+- Easy to use.
+- Open source.
+- Self-updated.
+- Documented.
+
+
+# Contact Me
+
+![Discord Banner 4](https://discordapp.com/api/guilds/504326398287020035/widget.png?style=banner4)
+
+# Disclaimer
+ This is very basic and straight forward , will be adding features soon . Stay strong China!
