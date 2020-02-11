@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Jakeisbored/corona-tracker/master/header.png?token=AKIFUTACGTVCYTCDQBGEAHK6IK7XO" alt="Header">
+   <img src="https://raw.githubusercontent.com/Jakeisbored/corona-tracker/master/header.png" alt="Header">
 </p>
 
 <p align="center">
