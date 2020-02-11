@@ -1,0 +1,21 @@
+{
+  "name": "corona-tracker",
+  "version": "1.0.0",
+  "description": "An easy npm package that keeps track of latest news and infections from nCov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "keywords": [
+  "corona",
+  "ncov",
+  "stats"
+],
+  "repository": "github:Jakeisbored/corona-tracker",
+}
